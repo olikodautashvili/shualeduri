@@ -1,0 +1,53 @@
+.search {
+	border-radius: 10%;
+	background-color: gray;
+}
+
+input placeholder {
+	color: darkgray;
+}
+
+.black {
+	background-color: black;
+	height: 1280px;
+	width: 319px;
+}
+
+.white {
+	background-color: white;
+	width: 1920px;
+	height: 2189px;
+}
+
+.threeline {
+   padding-left: 90px;
+}
+
+.nexttoicon {
+	color: white;
+	padding-left: 50px;
+}
+.inlblock {
+	display: flex;
+	background-color: hotpink;
+	padding-left:40px;
+   padding-right: 40px;
+	border-radius: 20%;
+	width: 100px;
+	justify-content: center;
+	margin-top: 70px;
+	margin-left: 60px;
+}
+
+.inlblock2 {
+	display: flex;
+	padding-left:40px;
+   padding-right: 40px;
+	border-radius: 20%;
+	width: 100px;
+	justify-content: center;
+	margin-top: 40px;
+	margin-left: 60px;
+}
+
+
