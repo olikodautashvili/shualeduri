@@ -11,7 +11,8 @@ input placeholder {
 	background-color: black;
 	height: 1280px;
 	width: 358px;
-
+	display: flex;
+	flex-direction: column;
 }
 
 .white {
@@ -80,6 +81,7 @@ input placeholder {
 	padding: 20px;
 	border-radius: 20%;
 	margin-top: 10px;
+	height: 20px;
 }
 
 img {
@@ -188,4 +190,31 @@ img {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
+}
+
+.whitetwo {
+	display: flex;
+	flex-direction: column;
+}
+
+.table {
+	max-width: 100%;
+	width: 900px;
+	display: flex;
+	justify-content: center;
+	padding-left: 300px;
+}
+
+th, td {
+  padding: 25px;
+  padding-left: 45px;
+}
+
+.rowfour{
+	background-color: #F2F2F2;
+	border-radius: 20%;
+}
+
+.rowseven {
+	color: #FF2288;
 }
